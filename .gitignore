@@ -1,0 +1,6 @@
+
+data/jupyterhub.sqlite
+data/jupyterhub_cookie_secret
+user_homes/*
+
+.ipynb_checkpoints/
